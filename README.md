@@ -1,0 +1,5 @@
+my_qrcode
+calculator
+count_words_infile
+gui_guess_game
+todo_app
